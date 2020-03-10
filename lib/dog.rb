@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Dog
      
 end
@@ -15,3 +16,7 @@ end
 lassie = Dog.new
 
 
+=======
+Def Dog 
+ 
+>>>>>>> d537ec0194fed2c57745078216d4056ca1b76616
